@@ -1,4 +1,4 @@
-## Hi there 👋
+## wefonts가 제공하는 오픈 폰트 소스 목록
 
 <!--
 **wefonts/wefonts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
