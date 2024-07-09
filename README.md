@@ -120,3 +120,6 @@
 
 ### __읏찬체(okChan) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/okChan/main/okChan.css);
+
+### __전화선(jeonHwaSeon) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/jeonHwaSeon/main/jeonHwaSeon.css);
