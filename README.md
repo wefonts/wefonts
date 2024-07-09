@@ -65,6 +65,9 @@
 ### __온글잎 강동희(OngleapGangdonghui) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGangdonghui/main/OngleapGangdonghui.css);   
 
+### __온글잎 OG 르네상스의 비밀(OGRenaissanceSecret) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OGRenaissanceSecret/main/OGRenaissanceSecret.css);   
+
 
 
 
