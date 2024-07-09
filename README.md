@@ -20,6 +20,9 @@
 ### __온글잎 기숙(OngleapGisuk) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGisuk/main/OngleapGisuk.css);   
 
+### __온글잎 금향체(OngleapGeumhyangche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGeumhyangche/main/OngleapGeumhyangche.css);   
+
 
 
 
