@@ -102,3 +102,6 @@
 
 ### __까투리체(katuri) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/katuri/main/katuri.css);
+
+### __페이북체(payBooc) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/payBooc/main/payBooc.css);
