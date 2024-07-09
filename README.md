@@ -123,3 +123,6 @@
 
 ### __전화선(jeonHwaSeon) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/jeonHwaSeon/main/jeonHwaSeon.css);
+
+### __심경하(simKyungHa) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/simKyungHa/main/simKyungHa.css);
