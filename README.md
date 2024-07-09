@@ -50,6 +50,9 @@
 ### __온글잎 금강 두애 할매체(OngleapGeumgangDuaehalmaeche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangDuaehalmaeche/main/OngleapGeumgangDuaehalmaeche.css);   
 
+### __온글잎 금강 계자 할매체(OngleapGeumgangGyejahalmaeche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangGyejahalmaeche/main/OngleapGeumgangGyejahalmaeche.css);   
+
 
 
 
