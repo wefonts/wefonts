@@ -47,6 +47,9 @@
 ### __온글잎 금강 맹숙 할매체(OngleapGeumgangMaengsukhalmaeche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangMaengsukhalmaeche/main/OngleapGeumgangMaengsukhalmaeche.css);   
 
+### __온글잎 금강 두애 할매체(OngleapGeumgangDuaehalmaeche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangDuaehalmaeche/main/OngleapGeumgangDuaehalmaeche.css);   
+
 
 
 
