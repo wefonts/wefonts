@@ -106,7 +106,7 @@
 ### __페이북체(payBooc) : 300, 500, 700, 800__
 @import url(https://raw.githubusercontent.com/wefonts/payBooc/main/payBooc.css);
 
-### __비씨카드체(bcCard) : normal__
+### __비씨카드체(bcCard) : 300, 700__
 @import url(https://raw.githubusercontent.com/wefonts/bcCard/main/bcCard.css);
 
 ### __여기어때 잘난체(jalnan) : normal__
