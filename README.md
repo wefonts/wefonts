@@ -114,3 +114,6 @@
 
 ### __읏뚱체(okDdung) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/okDdung/main/okDdung.css);
+
+### __읏궁체(okGung) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/okGung/main/okGung.css);
