@@ -117,3 +117,6 @@
 
 ### __읏궁체(okGung) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/okGung/main/okGung.css);
+
+### __읏찬체(okChan) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/okChan/main/okChan.css);
