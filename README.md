@@ -103,7 +103,7 @@
 ### __까투리체(katuri) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/katuri/main/katuri.css);
 
-### __페이북체(payBooc) : normal__
+### __페이북체(payBooc) : 300, 500, 700, 800__
 @import url(https://raw.githubusercontent.com/wefonts/payBooc/main/payBooc.css);
 
 ### __비씨카드체(bcCard) : normal__
