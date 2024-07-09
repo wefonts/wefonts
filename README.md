@@ -56,6 +56,9 @@
 ### __온글잎 귀요미 스탠다드(OngleapGwiyomiStandard) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGwiyomiStandard/main/OngleapGwiyomiStandard.css);   
 
+### __온글잎 권시은(OngleapKwonsieun) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapKwonsieun/main/OngleapKwonsieun.css);   
+
 
 
 
