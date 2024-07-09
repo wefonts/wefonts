@@ -41,6 +41,9 @@
 ### __온글잎 금강 영숙 할매체(OngleapGeumgangYeongsukHalmaeche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangYeongsukHalmaeche/main/OngleapGeumgangYeongsukHalmaeche.css);   
 
+### __온글잎 금강 문자 할매체(OngleapGeumgangMunjaHalmaeche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangMunjaHalmaeche/main/OngleapGeumgangMunjaHalmaeche.css);   
+
 
 
 
