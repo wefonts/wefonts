@@ -35,6 +35,9 @@
 ### __온글잎 금강 옥희 할매체(OngleapGeumgangOkheeHalmaeche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangOkheeHalmaeche/main/OngleapGeumgangOkheeHalmaeche.css);   
 
+### __온글잎 금강 영 할매체(OngleapGeumgangYeongsunHalmaeche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangYeongsunHalmaeche/main/OngleapGeumgangYeongsunHalmaeche.css);   
+
 
 
 
