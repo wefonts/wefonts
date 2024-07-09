@@ -19,3 +19,29 @@
 
 ### __온글잎 기숙(OngleapGisuk) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGisuk/main/OngleapGisuk.css);   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### __이사만루체(esaManru) : normal__   
+@import url([https://raw.githubusercontent.com/wefonts/OngleapKkotnaeche/main/OngleapKkotnaeche.css](https://raw.githubusercontent.com/wefonts/esaManru/main/esaManru.css));   
