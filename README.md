@@ -16,3 +16,6 @@
 
 ### __온글잎 꽃내체(OngleapKkotnaeche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapKkotnaeche/main/OngleapKkotnaeche.css);   
+
+### __온글잎 기숙(OngleapGisuk) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGisuk/main/OngleapGisuk.css);   
