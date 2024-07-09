@@ -13,3 +13,6 @@
 
 ### __온글잎 누카(OngleapNuka) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapNuka/main/OngleapNuka.css);   
+
+### __온글잎 꽃내체(OngleapKkotnaeche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapKkotnaeche/main/OngleapKkotnaeche.css);   
