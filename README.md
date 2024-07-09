@@ -10,3 +10,6 @@
 
 ### __온글잎 뉴무궁체(OngleapNewMugungche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapNewMugungche/main/newmugungche.css);   
+
+### __온글잎 누카(OngleapNuka) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapNuka/main/OngleapNuka.css);   
