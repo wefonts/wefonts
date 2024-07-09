@@ -23,6 +23,9 @@
 ### __온글잎 금향체(OngleapGeumhyangche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGeumhyangche/main/OngleapGeumhyangche.css);   
 
+### __온글잎 금강 희제 할매체(OngleapGeumgangHeejeHalmaeche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangHeejeHalmaeche/main/OngleapGeumgangHeejeHalmaeche.css);   
+
 
 
 
