@@ -111,3 +111,6 @@
 
 ### __여기어때 잘난체(jalnan) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/jalnan/main/jalnan.css);
+
+### __읏뚱체(okDdung) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/okDdung/main/okDdung.css);
