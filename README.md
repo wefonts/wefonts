@@ -59,6 +59,9 @@
 ### __온글잎 권시은(OngleapKwonsieun) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapKwonsieun/main/OngleapKwonsieun.css);   
 
+### __온글잎 고니꾸니 29(OngleapGonikuni29) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGonikuni29/main/OngleapGonikuni29.css);   
+
 
 
 
