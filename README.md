@@ -29,6 +29,9 @@
 ### __온글잎 금강 효남 할매체(OngleapGeumgangHyonamHalmaeche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangHyonamHalmaeche/main/OngleapGeumgangHyonamHalmaeche.css);   
 
+### __온글잎 금강 정애 할매체(OngleapGeumgangJeongaeHalmaeche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangJeongaeHalmaeche/main/OngleapGeumgangJeongaeHalmaeche.css);   
+
 
 
 
