@@ -81,3 +81,6 @@
 
 ### __넥센타이어체(nexenTire) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/nexenTire/main/nexenTire.css);
+
+### __월영교체(wolyeonggyo) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/wolyeonggyo/main/wolyeonggyo.css);
