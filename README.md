@@ -94,7 +94,7 @@
 ### __이사만루체(esaManru) : 300, 500, 700__   
 @import url(https://raw.githubusercontent.com/wefonts/esaManru/main/esaManru.css);
 
-### __넥센타이어체(nexenTire) : normal__   
+### __넥센타이어체(nexenTire) : 400, 700__   
 @import url(https://raw.githubusercontent.com/wefonts/nexenTire/main/nexenTire.css);
 
 ### __월영교체(wolyeonggyo) : normal__   
