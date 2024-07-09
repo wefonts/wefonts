@@ -90,3 +90,6 @@
 
 ### __월영교체(wolyeonggyo) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/wolyeonggyo/main/wolyeonggyo.css);
+
+### __까투리체(katuri) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/katuri/main/katuri.css);
