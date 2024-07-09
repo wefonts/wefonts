@@ -53,6 +53,9 @@
 ### __온글잎 금강 계자 할매체(OngleapGeumgangGyejahalmaeche) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapGeumgangGyejahalmaeche/main/OngleapGeumgangGyejahalmaeche.css);   
 
+### __온글잎 귀요미 스탠다드(OngleapGwiyomiStandard) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapGwiyomiStandard/main/OngleapGwiyomiStandard.css);   
+
 
 
 
