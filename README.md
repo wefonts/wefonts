@@ -108,3 +108,6 @@
 
 ### __비씨카드체(bcCard) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/bcCard/main/bcCard.css);
+
+### __여기어때 잘난체(jalnan) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/jalnan/main/jalnan.css);
