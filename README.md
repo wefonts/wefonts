@@ -105,3 +105,6 @@
 
 ### __페이북체(payBooc) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/payBooc/main/payBooc.css);
+
+### __비씨카드체(bcCard) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/bcCard/main/bcCard.css);
