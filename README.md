@@ -68,4 +68,4 @@
 
 
 ### __이사만루체(esaManru) : normal__   
-@import url([https://raw.githubusercontent.com/wefonts/OngleapKkotnaeche/main/OngleapKkotnaeche.css](https://raw.githubusercontent.com/wefonts/esaManru/main/esaManru.css));   
+@import url(https://raw.githubusercontent.com/wefonts/esaManru/main/esaManru.css);
