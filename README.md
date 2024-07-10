@@ -157,3 +157,8 @@
 ### __LINESeed체(lineseed) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/lineseed/main/lineSeed.css;
 
+### __미원체(miwon) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/miwon/main/miwon.css);
+
+
+
