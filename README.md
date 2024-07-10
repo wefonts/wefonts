@@ -142,3 +142,6 @@
 ### __티몬 몬소리체(tmon) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/tmon/main/tmon.css);
 
+### __부크크 명조체(bookkMyungjo) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/bookkMyungjo/main/bookkMyungjo.css);
+
