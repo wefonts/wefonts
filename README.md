@@ -171,3 +171,6 @@
 
 ### __롯데리아 촵땡겨체(lotteriaChab) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/lotteriaChab/main/lotteriaChab.css);
+
+### __롯데리아 딱붙어체(lotteriaDdag) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/lotteriaDdag/main/lotteriaDdag.css);
