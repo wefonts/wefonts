@@ -180,3 +180,6 @@
 
 ### __에스코어드림체(scoreDream) : 100, 200, 300, 400, 500, 600, 700, 800, 900__
 @import url(https://raw.githubusercontent.com/wefonts/scoreDream/main/scoreDream.css);
+
+### __을유1945체(eulyoo1945) : 400, 600__
+@import url(https://raw.githubusercontent.com/wefonts/eulyoo1945/main/eulyoo1945.css);
