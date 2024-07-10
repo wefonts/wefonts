@@ -166,3 +166,5 @@
 ### __나눔스퀘어네오체(nanumSquareNeo) : 300, 400, 700, 800, 900__
 @import url(https://raw.githubusercontent.com/wefonts/nanumSquareNeo/main/nanumSquareNeo.css);
 
+### __마포애민체(mapoAgape) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/mapoAgape/main/mapoAgape.css);
