@@ -169,6 +169,10 @@
 ### __마포애민체(mapoAgape) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/mapoAgape/main/mapoAgape.css);
 
+### __마포배낭여행체(backPacking) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/backPacking/main/backPacking.css);
+
+
 ### __롯데리아 촵땡겨체(lotteriaChab) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/lotteriaChab/main/lotteriaChab.css);
 
