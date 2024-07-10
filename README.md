@@ -132,3 +132,6 @@
 
 ### __땅스부대찌개체(budaeJjigae) : 300, 500, 700__
 @import url(https://raw.githubusercontent.com/wefonts/budaeJjigae/main/budaeJjigae.css);
+
+### __쿠키런체(cookieRun) : 400, 700, 900__
+@import url(https://raw.githubusercontent.com/wefonts/cookieRun/main/cookieRun.css);
