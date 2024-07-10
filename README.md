@@ -154,3 +154,6 @@
 ### __광양감동체(gwangyangTouching) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/gwangyangTouching/main/gwangyangTouching.css);
 
+### __LINESeed체(lineseed) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/lineseed/main/lineSeed.css;
+
