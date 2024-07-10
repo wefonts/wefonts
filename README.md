@@ -138,3 +138,7 @@
 
 ### __더잠실체(theJamsil) : 100, 300, 400, 500, 700, 800__
 @import url(https://raw.githubusercontent.com/wefonts/budaeJjigae/main/budaeJjigae.css);
+
+### __티몬 몬소리체(tmon) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/tmon/main/tmon.css);
+
