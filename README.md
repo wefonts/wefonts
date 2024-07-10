@@ -121,8 +121,11 @@
 ### __읏찬체(okChan) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/okChan/main/okChan.css);
 
-### __전화선(jeonHwaSeon) : normal__
+### __전화선체(jeonHwaSeon) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/jeonHwaSeon/main/jeonHwaSeon.css);
 
-### __심경하(simKyungHa) : normal__
+### __심경하체(simKyungHa) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/simKyungHa/main/simKyungHa.css);
+
+### __이서윤체(leeSeoYun) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/leeSeoYun/main/leeSeoYun.css);
