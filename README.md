@@ -151,3 +151,6 @@
 ### __광양햇살체(gwangyangSunshine) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/gwangyangSunshine/main/gwangyangSunshine.css);
 
+### __광양감동체(gwangyangTouching) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/gwangyangTouching/main/gwangyangTouching.css);
+
