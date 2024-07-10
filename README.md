@@ -129,3 +129,6 @@
 
 ### __이서윤체(leeSeoYun) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/leeSeoYun/main/leeSeoYun.css);
+
+### __땅스부대찌개체(budaeJjigae) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/budaeJjigae/main/budaeJjigae.css);
