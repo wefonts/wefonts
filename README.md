@@ -174,3 +174,6 @@
 
 ### __롯데리아 딱붙어체(lotteriaDdag) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/lotteriaDdag/main/lotteriaDdag.css);
+
+### __창원단감아삭체(dangamAsac) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/dangamAsac/main/dangamAsac.css);
