@@ -177,3 +177,6 @@
 
 ### __창원단감아삭체(dangamAsac) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/dangamAsac/main/dangamAsac.css);
+
+### __에스코어드림체(scoreDream) : 100, 200, 300, 400, 500, 600, 700, 800, 900__
+@import url(https://raw.githubusercontent.com/wefonts/scoreDream/main/scoreDream.css);
