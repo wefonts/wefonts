@@ -145,3 +145,6 @@
 ### __부크크 명조체(bookkMyungjo) : 300, 700__
 @import url(https://raw.githubusercontent.com/wefonts/bookkMyungjo/main/bookkMyungjo.css);
 
+### __부크크 고딕체(bookkGothic) : 300, 700__
+@import url(https://raw.githubusercontent.com/wefonts/bookkGothic/main/bookkGothic.css);
+
