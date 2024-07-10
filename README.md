@@ -160,7 +160,7 @@
 ### __미원체(miwon) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/miwon/main/miwon.css);
 
-### __지마켓산스체(gmarket) : normal__
+### __지마켓산스체(gmarket) : 300, 500, 700__
 @import url(https://raw.githubusercontent.com/wefonts/gmarket/main/gmarket.css);
 
 
