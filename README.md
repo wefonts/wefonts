@@ -148,3 +148,6 @@
 ### __부크크 고딕체(bookkGothic) : 300, 700__
 @import url(https://raw.githubusercontent.com/wefonts/bookkGothic/main/bookkGothic.css);
 
+### __광양햇살체(gwangyangSunshine) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/gwangyangSunshine/main/gwangyangSunshine.css);
+
