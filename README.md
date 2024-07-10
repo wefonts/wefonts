@@ -163,5 +163,6 @@
 ### __지마켓산스체(gmarket) : 300, 500, 700__
 @import url(https://raw.githubusercontent.com/wefonts/gmarket/main/gmarket.css);
 
-
+### __나눔스퀘어네오체(nanumSquareNeo) : 300, 400, 700, 800, 900__
+@import url(https://raw.githubusercontent.com/wefonts/nanumSquareNeo/main/nanumSquareNeo.css);
 
