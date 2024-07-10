@@ -168,3 +168,6 @@
 
 ### __마포애민체(mapoAgape) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/mapoAgape/main/mapoAgape.css);
+
+### __롯데리아 촵땡겨체(lotteriaChab) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/lotteriaChab/main/lotteriaChab.css);
