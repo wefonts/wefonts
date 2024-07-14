@@ -187,3 +187,21 @@
 
 ### __을유1945체(eulyoo1945) : 400, 600__
 @import url(https://raw.githubusercontent.com/wefonts/eulyoo1945/main/eulyoo1945.css);
+
+### __나눔스퀘어라운드체(nanumSquareRound) : 300, 400, 700, 800__
+@import url(https://raw.githubusercontent.com/wefonts/nanumSquareRound/main/nanumSquareRound.css);
+
+### __나눔손글씨붓체(nanumBrush) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/nanumBrush/main/nanumBrush.css);
+
+### __상주곶감체(nanumBrush) : 800__
+@import url(https://raw.githubusercontent.com/wefonts/gotGam/main/gotGam.css);
+
+### __상주경천섬체(gyeongCheon) : 800__
+@import url(https://raw.githubusercontent.com/wefonts/gyeongCheon/main/gyeongCheon.css);
+
+### __상주다정다감체(dajungDagam) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/dajungDagam/main/dajungDagam.css);
+
+### __웰컴체(dajungDagam) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/welcome/main/welcome.css);
