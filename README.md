@@ -203,5 +203,5 @@
 ### __상주다정다감체(dajungDagam) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/dajungDagam/main/dajungDagam.css);
 
-### __웰컴체(dajungDagam) : 400, 700__
+### __웰컴체(welcome) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/welcome/main/welcome.css);
