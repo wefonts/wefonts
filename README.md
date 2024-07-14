@@ -194,10 +194,10 @@
 ### __나눔손글씨붓체(nanumBrush) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/nanumBrush/main/nanumBrush.css);
 
-### __상주곶감체(nanumBrush) : 800__
+### __상주곶감체(nanumBrush) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/gotGam/main/gotGam.css);
 
-### __상주경천섬체(gyeongCheon) : 800__
+### __상주경천섬체(gyeongCheon) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/gyeongCheon/main/gyeongCheon.css);
 
 ### __상주다정다감체(dajungDagam) : normal__
