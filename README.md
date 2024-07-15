@@ -212,7 +212,7 @@
 ### __고운바탕체(gowunBatang) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/gowunBatang/main/gowunBatang.css);
 
-### __고운돋움체(gowunBatang) : normal__
+### __고운돋움체(gowunDodum) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/gowunDodum/main/gowunDodum.css);
 
 ### __동글체(dongle) : 300, 400, 700__
