@@ -205,3 +205,49 @@
 
 ### __웰컴체(welcome) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/welcome/main/welcome.css);
+
+### __어그로체(aggro) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/aggro/main/aggro.css);
+
+### __고운바탕체(gowunBatang) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/gowunBatang/main/gowunBatang.css);
+
+### __고운돋움체(gowunBatang) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/gowunDodum/main/gowunDodum.css);
+
+### __동글체(dongle) : 300, 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/dongle/main/dongle.css);
+
+### __앨리스디지털배움체(digitalBaeum) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/digitalBaeum/main/digitalBaeum.css);
+
+### __티웨이하늘체(twaySky) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/twaySky/main/twaySky.css);
+
+### __티웨이항공체(twayAir) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/twayAir/main/twayAir.css);
+
+### __설립체(establish) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/establish/main/establish.css);
+
+### __박물관문화재단클래식체(museumClassic) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/museumClassic/main/museumClassic.css);
+
+### __고도체(godo) : 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/godo/main/godo.css);
+
+### __마포당인리발전소체(mapoDPP) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/mapoDPP/main/mapoDPP.css);
+
+### __마포꽃섬체(flowerIsland) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/flowerIsland/main/flowerIsland.css);
+
+### __마포한아름체(peacefull) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css);
+
+### __마포한아름체(peacefull) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css);
+
+
+
+
