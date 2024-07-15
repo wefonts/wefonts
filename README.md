@@ -248,9 +248,6 @@
 ### __마포한아름체(peacefull) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css);
 
-### __마포한아름체(peacefull) : normal__
-@import url(https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css);
-
 
 
 
