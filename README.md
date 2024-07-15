@@ -227,6 +227,9 @@
 ### __티웨이항공체(twayAir) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/twayAir/main/twayAir.css);
 
+### __티웨이날다체(twayFly) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/twayFly/main/twayFly.css);
+
 ### __설립체(establish) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/establish/main/establish.css);
 
