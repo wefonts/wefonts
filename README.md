@@ -71,6 +71,9 @@
 ### __온글잎 도파민 중독(OngleapDopaminJoongdok) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleapDopaminJoongdok/main/OngleapDopaminJoongdok.css);   
 
+### __온글잎 디도니(Ongleapdidoni) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/Ongleapdidoni/main/Ongleapdidoni.css);   
+
 
 
 
