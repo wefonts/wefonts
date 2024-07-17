@@ -68,6 +68,9 @@
 ### __온글잎 OG 르네상스의 비밀(OGRenaissanceSecret) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OGRenaissanceSecret/main/OGRenaissanceSecret.css);   
 
+### __온글잎 도파민 중독(OngleapDopaminJoongdok) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapDopaminJoongdok/main/OngleapDopaminJoongdok.css);   
+
 
 
 
