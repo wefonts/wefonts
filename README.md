@@ -74,13 +74,17 @@
 ### __온글잎 디도니(Ongleapdidoni) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/Ongleapdidoni/main/Ongleapdidoni.css);   
 
+### __온글잎 레디오 볼펜체(OngleleafRadioBallpen) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafRadioBallpen/main/OngleleafRadioBallpen.css);   
 
+### __온글잎 맑은향기(OngleleafMalgeunHyanggi) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafMalgeunHyanggi/main/OngleleafMalgeunHyanggi.css);   
 
+### __온글잎 명숙체(githubusercontent) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafMyungsook/main/OngleleafMyungsook.css);  희
 
-
-
-
-
+### __온글잎 박서희(OngleleafParkSeohee) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafParkSeohee/main/OngleleafParkSeohee.css);   
 
 
 
