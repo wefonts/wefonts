@@ -1,4 +1,4 @@
-# 안녕하세요!   
+# 안녕하세요!
 
 ## 모든 폰트 적용 테스트해보기
 
@@ -258,6 +258,30 @@
 ### __마포한아름체(peacefull) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/peacefull/main/peacefull.css);
 
+-----------------------------------------------------------------------------------------
 
+### __스위트체(peacefull) : 300, 400, 500, 600, 700, 800, 900__
+@import url(https://raw.githubusercontent.com/wefonts/suite/main/suite.css);
+
+### __원스토어 모바일POP체(oneMobilePop) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/oneMobilePop/main/oneMobilePop.css);
+
+### __원스토어 모바일 고딕 본문체(oneMobile) : 300, 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/oneMobile/main/oneMobile.css);
+
+### __나눔명조옛한글체(nanumMyeongjoYet) : 300, 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/nanumMyeongjoYet/main/nanumMyeongjoYet.css);
+
+### __나눔명조체(nanumMyeongjo) : 400, 700, 800__
+@import url(https://raw.githubusercontent.com/wefonts/nanumMyeongjo/main/nanumMyeongjo.css);
+
+### __코트라희망체(kotraHope) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/kotraHope/main/kotraHope.css);
+
+### __나눔바른펜체(nanumBarunPen) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/nanumBarunPen/main/nanumBarunPen.css);
+
+### __나눔바른고딕옛한글체(nanumBarunGothicYet) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/nanumBarunGothicYet/main/nanumBarunGothicYet.css);
 
 
