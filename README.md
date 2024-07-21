@@ -469,3 +469,75 @@
 
 ### __세방고딕체(sebangGothic) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/sebangGothic/main/sebangGothic.css);
+
+### __검은고딕체(blackGothic) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/blackGothic/main/blackGothic.css);
+
+### __홍대프리덤체(hongdae) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/hongdae/main/hongdae.css);
+
+### __마포나루체(maponaru) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/maponaru/main/maponaru.css);
+
+### __마포디카포체(dacapo) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/dacapo/main/dacapo.css);
+
+### __마포금빛나루체(goldenPier) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/goldenPier/main/goldenPier.css);
+
+### __김포평화고딕체(gimpoGothic) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/gimpoGothic/main/gimpoGothic.css);
+
+### __김포평화 제목체(gimpoTitle) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/gimpoTitle/main/gimpoTitle.css);
+
+### __김포평화 바탕체(gimpoBatang) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/gimpoBatang/main/gimpoBatang.css);
+
+### __달성힐링체(healing) : 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/healing/main/healing.css);
+
+### __달성달링체(darling) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/darling/main/darling.css);
+
+### __제주돌담체(jejuDoldam) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/jejuDoldam/main/jejuDoldam.css);
+
+### __레베카체(jejuDoldam) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/jejuDoldam/main/jejuDoldam.css);
+
+### __레베카체(revecca) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/revecca/main/revecca.css);
+
+### __피렌체(firenze) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/firenze/main/firenze.css);
+
+### __수박화체(waterMelon) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/waterMelon/main/waterMelon.css);
+
+### __오이냉체(cucumber) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/cucumber/main/cucumber.css);
+
+### __a1전용서체(a1) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/a1/main/a1.css);
+
+### __다이어리체(diary) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/diary/main/diary.css);
+
+### __위드라이브체(wedrive) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/wedrive/main/wedrive.css);
+
+### __정신차렷체(wakeup) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/wakeup/main/wakeup.css);
+
+### __마초체(macho) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/macho/main/macho.css);
+
+### __유니폰트체(yoony) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/yoony/main/yoony.css);
+
+### __라디오 고딕체(ladio) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ladio/main/ladio.css);
+
+### __라디오 고딕체(ladio) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ladio/main/ladio.css);
