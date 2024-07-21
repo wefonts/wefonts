@@ -260,7 +260,7 @@
 
 -----------------------------------------------------------------------------------------
 
-### __스위트체(peacefull) : 300, 400, 500, 600, 700, 800, 900__
+### __스위트체(suite) : 300, 400, 500, 600, 700, 800, 900__
 @import url(https://raw.githubusercontent.com/wefonts/suite/main/suite.css);
 
 ### __원스토어 모바일POP체(oneMobilePop) : normal__
