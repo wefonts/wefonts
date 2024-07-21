@@ -86,6 +86,44 @@
 ### __온글잎 박서희(OngleleafParkSeohee) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleleafParkSeohee/main/OngleleafParkSeohee.css);   
 
+### __온글잎 부흥민재체(OngleleafBuhungMinJae) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungMinJae/main/OngleleafBuhungMinJae.css);   
+
+### __온글잎 부흥민하체(OngleleafBuhungMinHa) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungMinHa/main/OngleleafBuhungMinHa.css);   
+
+### __온글잎 부흥상호체(OngleleafBuhungSangho) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungSangho/main/OngleleafBuhungSangho.css);   
+
+### __온글잎 부흥슬아체(OngleleafBuhungSeulah) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungSeulah/main/OngleleafBuhungSeulah.css);   
+
+### __온글잎 부흥성환체(OngleleafBuhungSunghwan) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungSunghwan/main/OngleleafBuhungSunghwan.css);   
+### __온글잎 부흥시우체(OngleleafBuhungSiwoo) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungSiwoo/main/OngleleafBuhungSiwoo.css);   
+
+### __온글잎 부흥시윤체(OngleleafBuhungSiyoon) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungSiyoon/main/OngleleafBuhungSiyoon.css);   
+
+### __온글잎 부흥예슬체(OngleleafBuhungYeseul) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungYeseul/main/OngleleafBuhungYeseul.css);   
+
+### __온글잎 부흥예찬체(OngleleafBuhungYechun) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungYechun/main/OngleleafBuhungYechun.css);      
+
+### __온글잎 부흥용진체(OngleleafBuhungYongjin) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungYongjin/main/OngleleafBuhungYongjin.css);  
+    
+### __온글잎 부흥은서체(OngleleafBuhungEunseo) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungEunseo/main/OngleleafBuhungEunseo.css);        
+### __온글잎 부흥은찬체(OngleleafBuhungEunchan) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungEunchan/main/OngleleafBuhungEunchan.css);  
+        
+### __온글잎 부흥인성체(OngleleafBuhungInseong) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungInseong/main/OngleleafBuhungInseong.css);  
+    
+
 
 
 
