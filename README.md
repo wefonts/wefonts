@@ -341,3 +341,32 @@
 ### __카페24 써라운드에어체(classicType) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ssurroundAir/main/ssurroundAir.css);
 
+### __카페24 빛나는별체(shiningStar) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/shiningStar/main/shiningStar.css);
+
+### __카페24 단정해체(danJungHae) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/danJungHae/main/danJungHae.css);
+
+### __카페24 숑숑체(syongsyong) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/syongsyong/main/syongsyong.css);
+
+### __카페24 심플해체(simpleHae) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/simpleHae/main/simpleHae.css);
+
+### __카페24 쑥쑥체(ssukssuk) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ssukssuk/main/ssukssuk.css);
+
+### __카페24 고운밤체(prettyNight) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/prettyNight/main/prettyNight.css);
+
+### __카페24 아네모네체(ohSquare) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ohSquare/main/ohSquare.css);
+
+### __카페24 아네모네 에어체(ohSquareAir) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ohSquareAir/main/ohSquareAir.css);
+
+### __카페24 아네모네 에어체(ohSquareAir) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ohSquareAir/main/ohSquareAir.css);
+
+
+
