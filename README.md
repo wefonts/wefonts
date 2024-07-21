@@ -365,8 +365,17 @@
 ### __카페24 아네모네 에어체(ohSquareAir) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ohSquareAir/main/ohSquareAir.css);
 
-### __카페24 아네모네 에어체(ohSquareAir) : normal__
-@import url(https://raw.githubusercontent.com/wefonts/ohSquareAir/main/ohSquareAir.css);
+### __스웨거체(swagger) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/swagger/main/swagger.css);
+
+### __빛의계승자체(heirOfLight) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/heirOfLight/main/heirOfLight.css);
+
+### __잘풀리는하루체(day) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/day/main/day.css);
+
+### __잘풀리는하루체(day) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/day/main/day.css);
 
 
 
