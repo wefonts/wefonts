@@ -586,6 +586,47 @@
 ### __닉스곤폰트(nixgonFonts) : 300, 500, 700__
 @import url(https://raw.githubusercontent.com/wefonts/nixgonFonts/main/nixgonFonts.css);
 
+### __국립공원 반달이체(bandali) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/bandali/main/bandali.css);
+
+### __국립공원 꼬미체(bandali) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/komi/main/komi.css);
+
+---110개
+
+### __부산체(busan) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/busan/main/busan.css);
+
+### __수성돋움체(suseongDotum) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/suseongDotum/main/suseongDotum.css);
+
+### __수성혜정체(suseongDotum) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/suseongHyejeong/main/suseongHyejeong.css);
+
+### __수성바탕체(suseongBatang) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/suseongBatang/main/suseongBatang.css);
+
+### __김해가야체(suseongBatang) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/gimhaeGaya/main/gimhaeGaya.css);
+
+### __ACC 어린이하늘 맑은체(childrenSky) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/childrenSky/main/childrenSky.css);
+
+### __ACC 어린이가을 담은체(childrenFall) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/childrenFall/main/childrenFall.css);
+
+### __ACC 어린이마음 고운체(childrenHeart) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/childrenHeart/main/childrenHeart.css);
+
+### __해남체(haenam) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/haenam/main/haenam.css);
+
+### __마루부리체(maruBuri) : 200, 300, 400, 600, 700__
+@import url(https://raw.githubusercontent.com/wefonts/maruBuri/main/maruBuri.css);
+
+### __티머니 둥근바람체(tmoneyRoundWind) : 400, 800__
+@import url(https://raw.githubusercontent.com/wefonts/tmoneyRoundWind/main/tmoneyRoundWind.css);
+
 
 
 
