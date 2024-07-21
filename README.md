@@ -401,6 +401,32 @@
 ### __조선가는고딕체(chosunSg) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/chosunSg/main/chosunSg.css);
 
-### __조선가는고딕체(chosunSg) : normal__
-@import url(https://raw.githubusercontent.com/wefonts/chosunSg/main/chosunSg.css);
+### __조선굵은명조체(chosunKm) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunKm/main/chosunKm.css);
 
+### __조선신명조체(chosunSm) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunSm/main/chosunSm.css);
+
+### __배민 한나는11살체(hanna11) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/hanna11/main/hanna11.css);
+
+### __배민 한나체(hannaPro) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/hannaPro/main/hannaPro.css);
+
+### __배민 기랑해랑체(kiRang) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/kiRang/main/kiRang.css);
+
+### __배민 을지로 오래오래체(oraeorae) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/oraeorae/main/oraeorae.css);
+
+### __배민 을지로 10년후체(euljiro10) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/euljiro10/main/euljiro10.css);
+
+### __배민 한나체 Air(hannaAir) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/hannaAir/main/hannaAir.css);
+
+### __배민 연성체(yeonsung) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/yeonsung/main/yeonsung.css);
+
+### __배민 도현체(dohyeon) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/dohyeon/main/dohyeon.css);
