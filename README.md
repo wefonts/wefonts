@@ -430,3 +430,21 @@
 
 ### __배민 도현체(dohyeon) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/dohyeon/main/dohyeon.css);
+
+### __배민 주아체(jua) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/jua/main/jua.css);
+
+### __배민 주아체(jua) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/jua/main/jua.css);
+
+### __원스토어 모바일 고딕 제목체(oneMobileTitle)
+@import url(https://raw.githubusercontent.com/wefonts/oneMobileTitle/main/oneMobileTitle.css);
+
+### __경기천년바탕체(gyeonggiBatang)
+@import url(https://raw.githubusercontent.com/wefonts/gyeonggiBatang/main/gyeonggiBatang.css);
+
+### __서울남산체(seoulNamsan)
+@import url(https://raw.githubusercontent.com/wefonts/seoulNamsan/main/seoulNamsan.css);
+
+### __강원교육모두체(eduAll)
+@import url(https://raw.githubusercontent.com/wefonts/eduAll/main/eduAll.css);
