@@ -284,4 +284,29 @@
 ### __나눔바른고딕옛한글체(nanumBarunGothicYet) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/nanumBarunGothicYet/main/nanumBarunGothicYet.css);
 
+### __나눔스퀘어체(nanumSquare) : 300, 400, 700, 800__
+@import url(https://raw.githubusercontent.com/wefonts/nanumSquare/main/nanumSquare.css);
 
+### __코트라고딕체(kotraGothic) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/kotraGothic/main/kotraGothic.css);
+
+### __코트라도약체(kotraLeap) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/kotraLeap/main/kotraLeap.css);
+
+### __코트라손글씨체(kotraSongeulssi) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/kotraSongeulssi/main/kotraSongeulssi.css);
+
+### __코트라볼드체(kotraBold) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/kotraBold/main/kotraBold.css);
+
+### __카페24 당당해체(dangDangHae) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/dangDangHae/main/dangDangHae.css);
+
+### __카페24 동동체(dongdong) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/dongdong/main/dongdong.css);
+
+### __Y유니버스체(yUniverse) : 300, 700__
+@import url(https://raw.githubusercontent.com/wefonts/yUniverse/main/yUniverse.css);
+
+### __Y유니버스체(yUniverse) : 300, 700__
+@import url(https://raw.githubusercontent.com/wefonts/yUniverse/main/yUniverse.css);
