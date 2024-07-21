@@ -503,9 +503,6 @@
 ### __제주돌담체(jejuDoldam) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/jejuDoldam/main/jejuDoldam.css);
 
-### __레베카체(jejuDoldam) : normal__
-@import url(https://raw.githubusercontent.com/wefonts/jejuDoldam/main/jejuDoldam.css);
-
 ### __레베카체(revecca) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/revecca/main/revecca.css);
 
@@ -539,5 +536,50 @@
 ### __라디오 고딕체(ladio) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ladio/main/ladio.css);
 
-### __라디오 고딕체(ladio) : normal__
-@import url(https://raw.githubusercontent.com/wefonts/ladio/main/ladio.css);
+### __허니도로롱체(hyunyDororong) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/hyunyDororong/main/hyunyDororong.css);
+
+--- 92개
+
+### __안성탕면체(ansung) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ansung/main/ansung.css);
+
+### __안성탕면체ESG(ansung) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ansungESG/main/ansungESG.css);
+
+### __생거진천체(saenggeo) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/saenggeo/main/saenggeo.css);
+
+### __평창체(pyeongChang) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/pyeongChang/main/pyeongChang.css);
+
+### __한림고딕체(hallymGothic) : 400, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/hallymGothic/main/hallymGothic.css);
+
+### __한림명조체(hallymMyeongjo) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/hallymMyeongjo/main/hallymMyeongjo.css);
+
+### __밀양 아리랑체(hallymMyeongjo) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/arirang/main/arirang.css);
+
+### __밀양 아리랑 고딕체(hallymMyeongjo) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/arirangGothic/main/arirangGothic.css);
+
+### __밀양 영남루체(yeongNamRu) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/yeongNamRu/main/yeongNamRu.css);
+
+### __밀양 해맑은 상상체(sangsang) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/sangsang/main/sangsang.css);
+
+### __마이쮸체(mychew) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/mychew/main/mychew.css);
+
+### __마비옛체(mabinogi) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/mabinogi/main/mabinogi.css);
+
+### __우리다움체(wooriDaum) : 300, 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/wooriDaum/main/wooriDaum.css);
+
+
+
+
