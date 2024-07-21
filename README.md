@@ -539,8 +539,6 @@
 ### __허니도로롱체(hyunyDororong) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/hyunyDororong/main/hyunyDororong.css);
 
---- 92개
-
 ### __안성탕면체(ansung) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ansung/main/ansung.css);
 
@@ -561,6 +559,8 @@
 
 ### __밀양 아리랑체(hallymMyeongjo) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/arirang/main/arirang.css);
+
+---100개
 
 ### __밀양 아리랑 고딕체(hallymMyeongjo) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/arirangGothic/main/arirangGothic.css);
