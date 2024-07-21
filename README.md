@@ -122,6 +122,45 @@
         
 ### __온글잎 부흥인성체(OngleleafBuhungInseong) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungInseong/main/OngleleafBuhungInseong.css);  
+        
+### __온글잎 부흥재율체(OngleleafBuhungJaeyul) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungJaeyul/main/OngleleafBuhungJaeyul.css);  
+        
+### __온글잎 부흥종진체(OngleleafBuhungJongjin) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungJongjin/main/OngleleafBuhungJongjin.css);  
+        
+### __온글잎 부흥주원체(OngleleafBuhungJuwon) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungJuwon/main/OngleleafBuhungJuwon.css);  
+        
+### __온글잎 부흥지영체(OngleleafBuhungJiyoung) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungJiyoung/main/OngleleafBuhungJiyoung.css);  
+        
+### __온글잎 부흥지혜쌤체(OngleleafBuhungJihyeSaem) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungJihyeSaem/main/OngleleafBuhungJihyeSaem.css);  
+        
+### __온글잎 부흥진우케이체(OngleleafBuhungJinwooKEI) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungJinwooKEI/main/OngleleafBuhungJinwooKEI.css);  
+        
+### __온글잎 부흥태득체(OngleleafBuhungTaedeuk) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungTaedeuk/main/OngleleafBuhungTaedeuk.css);  
+        
+### __온글잎 부흥현규체(OngleleafBuhungHyungyu) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungHyungyu/main/OngleleafBuhungHyungyu.css);  
+        
+### __온글잎 부흥현수체(OngleleafBuhungHyunsu) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungHyunsu/main/OngleleafBuhungHyunsu.css);  
+        
+### __온글잎 부흥호준체(OngleleafBuhungHojun) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungHojun/main/OngleleafBuhungHojun.css);  
+        
+### __온글잎 부흥효미체(OngleleafBuhungHyomi) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafBuhungHyomi/main/OngleleafBuhungHyomi.css);  
+        
+### __온글잎 상희체(OngleleafSanghee) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSanghee/main/OngleleafSanghee.css);  
+        
+### __온글잎 선시우체(OngleleafSeonSiwoo) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSeonSiwoo/main/OngleleafSeonSiwoo.css);  
     
 
 
