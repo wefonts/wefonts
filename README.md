@@ -374,8 +374,33 @@
 ### __잘풀리는하루체(day) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/day/main/day.css);
 
-### __잘풀리는하루체(day) : normal__
-@import url(https://raw.githubusercontent.com/wefonts/day/main/day.css);
+### __잘풀리는오늘체(today) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/today/main/today.css);
 
+### __경기천년제목체(gyeonggiTitle) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/gyeonggiTitle/main/gyeonggiTitle.css);
 
+### __조신일보명조체(chosunNm) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunNm/main/chosunNm.css);
+
+### __조신로고체(chosunLo) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunLo/main/chosunLo.css);
+
+### __조신궁서체(chosunGs) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunGs/main/chosunGs.css);
+
+### __조신굴림체(chosunGu) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunGu/main/chosunGu.css);
+
+### __조신견고딕체(chosunBg) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunBg/main/chosunBg.css);
+
+### __조선굵은고딕체(chosunKg) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunKg/main/chosunKg.css);
+
+### __조선가는고딕체(chosunSg) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunSg/main/chosunSg.css);
+
+### __조선가는고딕체(chosunSg) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/chosunSg/main/chosunSg.css);
 
