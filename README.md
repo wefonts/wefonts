@@ -437,14 +437,14 @@
 ### __배민 주아체(jua) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/jua/main/jua.css);
 
-### __원스토어 모바일 고딕 제목체(oneMobileTitle)
+### __원스토어 모바일 고딕 제목체(oneMobileTitle)__
 @import url(https://raw.githubusercontent.com/wefonts/oneMobileTitle/main/oneMobileTitle.css);
 
-### __경기천년바탕체(gyeonggiBatang)
+### __경기천년바탕체(gyeonggiBatang) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/gyeonggiBatang/main/gyeonggiBatang.css);
 
-### __서울남산체(seoulNamsan)
+### __서울남산체(seoulNamsan) : 300, 500, 700, 800__
 @import url(https://raw.githubusercontent.com/wefonts/seoulNamsan/main/seoulNamsan.css);
 
-### __강원교육모두체(eduAll)
+### __강원교육모두체(eduAll) : 300, 700__
 @import url(https://raw.githubusercontent.com/wefonts/eduAll/main/eduAll.css);
