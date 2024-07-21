@@ -308,5 +308,36 @@
 ### __Y유니버스체(yUniverse) : 300, 700__
 @import url(https://raw.githubusercontent.com/wefonts/yUniverse/main/yUniverse.css);
 
-### __Y유니버스체(yUniverse) : 300, 700__
-@import url(https://raw.githubusercontent.com/wefonts/yUniverse/main/yUniverse.css);
+### __Y너만을비춤체(ySpotLight) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ySpotLight/main/ySpotLight.css);
+
+### __넥슨메이플스토리체(nexonMaplestory) : 300, 700__
+@import url(https://raw.githubusercontent.com/wefonts/nexonMaplestory/main/nexonMaplestory.css);
+
+### __넥슨배찌체(nexonBazzi) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/nexonBazzi/main/nexonBazzi.css);
+
+### __넥슨풋볼고딕체(nexonFootball) : 300, 700__
+@import url(https://raw.githubusercontent.com/wefonts/nexonFootball/main/nexonFootball.css);
+
+### __넥슨Lv.1고딕체(nexonLv1) : 300, 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/nexonLv1/main/nexonLv1.css);
+
+### __넥슨Lv.2고딕체(nexonLv2) : 300, 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/nexonLv2/main/nexonLv2.css);
+
+### __카페24 슈퍼매직 Regular체(superMagicRegular) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/superMagicRegular/main/superMagicRegular.css);
+
+### __카페24 슈퍼매직 Bold체(superMagicBold) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/superMagicBold/main/superMagicBold.css);
+
+### __카페24 클래식타입체(classicType) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/classicType/main/classicType.css);
+
+### __카페24 써라운드체(ssurround) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ssurround/main/ssurround.css);
+
+### __카페24 써라운드에어체(classicType) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ssurroundAir/main/ssurroundAir.css);
+
