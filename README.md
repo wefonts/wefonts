@@ -560,8 +560,6 @@
 ### __밀양 아리랑체(hallymMyeongjo) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/arirang/main/arirang.css);
 
----100개
-
 ### __밀양 아리랑 고딕체(hallymMyeongjo) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/arirangGothic/main/arirangGothic.css);
 
@@ -591,8 +589,6 @@
 
 ### __국립공원 꼬미체(bandali) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/komi/main/komi.css);
-
----110개
 
 ### __부산체(busan) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/busan/main/busan.css);
@@ -627,7 +623,92 @@
 ### __티머니 둥근바람체(tmoneyRoundWind) : 400, 800__
 @import url(https://raw.githubusercontent.com/wefonts/tmoneyRoundWind/main/tmoneyRoundWind.css);
 
+### __포천 오성과한음체(oseong) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/oseong/main/oseong.css);
 
+### __포천 막걸리체(makgeolli) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/makgeolli/main/makgeolli.css);
+
+### __프리텐다드(Pretendard) : 100, 200, 300, 400, 500, 600, 700, 800, 900__
+@import url(https://github.com/wefonts/Pretendard/blob/main/Pretendard.css);
+
+### __나눔바른고딕(nanumBarunGothic) : 200, 300, 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/nanumBarunGothic/main/nanumBarunGothic.css);
+
+### __순천체(suncheon) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/suncheon/main/suncheon.css);
+
+### __영덕 대게체(snowcrab) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/snowcrab/main/snowcrab.css);
+
+### __영덕 해파랑체(haeparang) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/haeparang/main/haeparang.css);
+
+### __영덕 블루로드체(blueroad) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/blueroad/main/blueroad.css);
+
+### __영덕 바다체(sea) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/sea/main/sea.css);
+
+### __긱블 말랑이체(geekble) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/geekble/main/geekble.css);
+
+### __강원특별자치도체(gangwon) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/gangwon/main/gangwon.css);
+
+### __학교안심 바른돋움체(bareonDotum) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/bareonDotum/main/bareonDotum.css);
+
+### __학교안심 산뜻바탕체(santteutBatang) : 300, 500__
+@import url(https://raw.githubusercontent.com/wefonts/santteutBatang/main/santteutBatang.css);
+
+### __학교안심 산뜻돋움체(santteutDotum) : 300, 500__
+@import url(https://raw.githubusercontent.com/wefonts/santteutDotum/main/santteutDotum.css);
+
+### __학교안심 곧은제목체(godeunJemok) : 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/godeunJemok/main/godeunJemok.css);
+
+### __학교안심 가을소풍체(gaeulSopung) : 300, 700__
+@import url(https://raw.githubusercontent.com/wefonts/gaeulSopung/main/gaeulSopung.css);
+
+### __학교안심 맑은날체(malgeunNal) : 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/malgeunNal/main/malgeunNal.css);
+
+### __학교안심 우주체(wooJu) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/wooJu/main/wooJu.css);
+
+### __학교안심 분필체(bunPil) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/bunPil/main/bunPil.css);
+
+### __학교안심 돌담체(dolDam) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/dolDam/main/dolDam.css);
+
+### __학교안심 꾸러기체(dolDam) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/ggooreogi/main/ggooreogi.css);
+
+### __학교안심 붓펜체(butPen) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/butPen/main/butPen.css);
+
+### __학교안심 바른바탕체(bareonBatang) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/bareonBatang/main/bareonBatang.css);
+
+### __학교안심 봄방학체(bomBangHak) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/bomBangHak/main/bomBangHak.css);
+
+### __나눔명조에코체(nanumMyeongjo) : 400, 700, 800__
+@import url(https://raw.githubusercontent.com/wefonts/nanumMyeongjoEco/main/nanumMyeongjoEco.css);
+
+### __자이언츠체(giants) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/giants/main/giants.css);
+
+### __자이언츠 인라인체(giantsInline) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/giantsInline/main/giantsInline.css);
+
+### __KBO다이아고딕체(diaGothic) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/diaGothic/main/diaGothic.css);
+
+### __오아고딕체(oaGothic) : 500, 800__
+@import url(https://raw.githubusercontent.com/wefonts/oaGothic/main/oaGothic.css);
 
 
 
