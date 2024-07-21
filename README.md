@@ -448,3 +448,24 @@
 
 ### __강원교육모두체(eduAll) : 300, 700__
 @import url(https://raw.githubusercontent.com/wefonts/eduAll/main/eduAll.css);
+
+### __강원교육튼튼체(eduPower) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/eduPower/main/eduPower.css);
+
+### __강원교육현옥샘체(eduHyeonok) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/eduHyeonok/main/eduHyeonok.css);
+
+### __강원교육새음체(eduSaeeum) : normal__
+@import url(https://raw.githubusercontent.com/wefonts/eduSaeeum/main/eduSaeeum.css);
+
+### __강한육군체(roka) : 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/roka/main/roka.css);
+
+### __넷마블체(netmarble) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/netmarble/main/netmarble.css);
+
+### __서울한강체(seoulHangang) : 300, 500, 700, 800__
+@import url(https://raw.githubusercontent.com/wefonts/seoulHangang/main/seoulHangang.css);
+
+### __세방고딕체(sebangGothic) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/sebangGothic/main/sebangGothic.css);
