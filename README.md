@@ -580,6 +580,13 @@
 ### __우리다움체(wooriDaum) : 300, 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/wooriDaum/main/wooriDaum.css);
 
+### __추사사랑체(chusaLove) : 400, 700__
+@import url(https://raw.githubusercontent.com/wefonts/chusaLove/main/chusaLove.css);
+
+### __닉스곤폰트(nixgonFonts) : 300, 500, 700__
+@import url(https://raw.githubusercontent.com/wefonts/nixgonFonts/main/nixgonFonts.css);
+
+
 
 
 
