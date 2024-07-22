@@ -586,7 +586,7 @@
 ### __경기천년제목체(gyeonggiTitle) : 300, 500, 700__
 @import url(https://raw.githubusercontent.com/wefonts/gyeonggiTitle/main/gyeonggiTitle.css);
 
-### __조신일보명조체(chosunNm) : normal__
+### __조선일보명조체(chosunNm) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/chosunNm/main/chosunNm.css);
 
 ### __조신로고체(chosunLo) : normal__
