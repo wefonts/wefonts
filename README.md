@@ -799,13 +799,13 @@
 ### __수성돋움체(suseongDotum) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/suseongDotum/main/suseongDotum.css);
 
-### __수성혜정체(suseongDotum) : normal__
+### __수성혜정체(suseongHyejeong) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/suseongHyejeong/main/suseongHyejeong.css);
 
 ### __수성바탕체(suseongBatang) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/suseongBatang/main/suseongBatang.css);
 
-### __김해가야체(suseongBatang) : 400, 700__
+### __김해가야체(gimhaeGaya) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/gimhaeGaya/main/gimhaeGaya.css);
 
 ### __ACC 어린이하늘 맑은체(childrenSky) : normal__
