@@ -589,16 +589,16 @@
 ### __조선일보명조체(chosunNm) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/chosunNm/main/chosunNm.css);
 
-### __조신로고체(chosunLo) : normal__
+### __조선로고체(chosunLo) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/chosunLo/main/chosunLo.css);
 
-### __조신궁서체(chosunGs) : normal__
+### __조선궁서체(chosunGs) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/chosunGs/main/chosunGs.css);
 
-### __조신굴림체(chosunGu) : normal__
+### __조선굴림체(chosunGu) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/chosunGu/main/chosunGu.css);
 
-### __조신견고딕체(chosunBg) : normal__
+### __조선견고딕체(chosunBg) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/chosunBg/main/chosunBg.css);
 
 ### __조선굵은고딕체(chosunKg) : normal__
