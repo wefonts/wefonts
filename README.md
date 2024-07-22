@@ -886,7 +886,7 @@
 ### __학교안심 돌담체(dolDam) : 300, 500, 700__
 @import url(https://raw.githubusercontent.com/wefonts/dolDam/main/dolDam.css);
 
-### __학교안심 꾸러기체(dolDam) : normal__
+### __학교안심 꾸러기체(ggooreogi) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ggooreogi/main/ggooreogi.css);
 
 ### __학교안심 붓펜체(butPen) : 300, 500, 700__
@@ -898,7 +898,7 @@
 ### __학교안심 봄방학체(bomBangHak) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/bomBangHak/main/bomBangHak.css);
 
-### __나눔명조에코체(nanumMyeongjo) : 400, 700, 800__
+### __나눔명조에코체(nanumMyeongjoEco) : 400, 700, 800__
 @import url(https://raw.githubusercontent.com/wefonts/nanumMyeongjoEco/main/nanumMyeongjoEco.css);
 
 ### __자이언츠체(giants) : 400, 700__
