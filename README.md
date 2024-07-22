@@ -760,10 +760,10 @@
 ### __한림명조체(hallymMyeongjo) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/hallymMyeongjo/main/hallymMyeongjo.css);
 
-### __밀양 아리랑체(hallymMyeongjo) : 400, 700__
+### __밀양 아리랑체(arirang) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/arirang/main/arirang.css);
 
-### __밀양 아리랑 고딕체(hallymMyeongjo) : 400, 700__
+### __밀양 아리랑 고딕체(arirangGothic) : 400, 700__
 @import url(https://raw.githubusercontent.com/wefonts/arirangGothic/main/arirangGothic.css);
 
 ### __밀양 영남루체(yeongNamRu) : normal__
