@@ -697,10 +697,10 @@
 ### __김포평화 바탕체(gimpoBatang) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/gimpoBatang/main/gimpoBatang.css);
 
-### __달성힐링체(healing) : 500, 700__
+### __달서힐링체(healing) : 500, 700__
 @import url(https://raw.githubusercontent.com/wefonts/healing/main/healing.css);
 
-### __달성달링체(darling) : normal__
+### __달서달링체(darling) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/darling/main/darling.css);
 
 ### __제주돌담체(jejuDoldam) : normal__
