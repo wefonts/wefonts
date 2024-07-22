@@ -544,7 +544,7 @@
 ### __카페24 써라운드체(ssurround) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ssurround/main/ssurround.css);
 
-### __카페24 써라운드에어체(classicType) : normal__
+### __카페24 써라운드에어체(ssurroundAir) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ssurroundAir/main/ssurroundAir.css);
 
 ### __카페24 빛나는별체(shiningStar) : normal__
