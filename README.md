@@ -170,8 +170,60 @@
         
 ### __온글잎 성희(OngleleafSunghui) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleleafSunghui/main/OngleleafSunghui.css);       
+
 ### __온글잎 소망체(OngleleafSomang) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleleafSomang/main/OngleleafSomang.css);  
+
+### __온글잎 소진체(OngleleafSojin) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSojin/main/OngleleafSojin.css);  
+
+### __온글잎 수경체(OngleleafSugyeong) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSugyeong/main/OngleleafSugyeong.css);  
+
+### __온글잎 스프(OngleleafSoup) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSoup/main/OngleleafSoup.css);  
+
+### __온글잎 신예빈(OwnglyphShinYebin) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OwnglyphShinYebin/main/OwnglyphShinYebin.css);  
+
+### __온글잎 신유원(OngleleafShinYuWon) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafShinYuWon/main/OngleleafShinYuWon.css);  
+
+### __온글잎 신호성체(OngleleafShinHoseong) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafShinHoseong/main/OngleleafShinHoseong.css);  
+
+### __온글잎 아인이(OngleleafAini) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafAini/main/OngleleafAini.css);  
+
+### __온글잎 앨리스탠다드(OngleleafAliceStandard) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafAliceStandard/main/OngleleafAliceStandard.css);  
+
+### __온글잎 앵그리수미(OngleleafAngrySoomi) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafAngrySoomi/main/OngleleafAngrySoomi.css);  
+
+### __온글잎 양지혜체(OngleleafYangJihye) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafYangJihye/main/OngleleafYangJihye.css);  
+
+### __온글잎 양호(OngleleafYangho) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafYangho/main/OngleleafYangho.css);  
+
+### __온글잎 영근(OngleleafYounggeun) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafYounggeun/main/OngleleafYounggeun.css);  
+
+### __온글잎 예지927(OngleleafYeji927) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafYeji927/main/OngleleafYeji927.css);  
+
+### __온글잎 요섭(OngleleafYoseop) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafYoseop/main/OngleleafYoseop.css);  
+
+### __온글잎 우리집여름이체(OngleleafOurHouseSummer) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafOurHouseSummer/main/OngleleafOurHouseSummer.css);  
+
+### __온글잎 은영체(OngleleafEunyeong) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafEunyeong/main/OngleleafEunyeong.css);  
+
+### __온글잎 윤지는유니(OngleleafYunjinisuni) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafYunjinisuni.css/main/OngleleafYunjinisuni.css);  
     
 
 
