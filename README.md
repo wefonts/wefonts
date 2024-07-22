@@ -745,7 +745,7 @@
 ### __안성탕면체(ansung) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ansung/main/ansung.css);
 
-### __안성탕면체ESG(ansung) : normal__
+### __안성탕면체 ESG(ansung) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ansungESG/main/ansungESG.css);
 
 ### __생거진천체(saenggeo) : normal__
