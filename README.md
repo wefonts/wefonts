@@ -640,9 +640,6 @@
 ### __배민 주아체(jua) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/jua/main/jua.css);
 
-### __배민 주아체(jua) : normal__
-@import url(https://raw.githubusercontent.com/wefonts/jua/main/jua.css);
-
 ### __원스토어 모바일 고딕 제목체(oneMobileTitle)__
 @import url(https://raw.githubusercontent.com/wefonts/oneMobileTitle/main/oneMobileTitle.css);
 
