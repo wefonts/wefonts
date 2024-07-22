@@ -790,7 +790,7 @@
 ### __국립공원 반달이체(bandali) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/bandali/main/bandali.css);
 
-### __국립공원 꼬미체(bandali) : normal__
+### __국립공원 꼬미체(komi) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/komi/main/komi.css);
 
 ### __부산체(busan) : normal__
