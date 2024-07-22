@@ -169,7 +169,9 @@
 @import url(https://raw.githubusercontent.com/wefonts/OngleleafSeongEunSaem/main/OngleleafSeongEunSaem.css);  
         
 ### __온글잎 성희(OngleleafSunghui) : normal__   
-@import url(https://raw.githubusercontent.com/wefonts/OngleleafSunghui/main/OngleleafSunghui.css);  
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSunghui/main/OngleleafSunghui.css);       
+### __온글잎 소망체(OngleleafSomang) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSomang/main/OngleleafSomang.css);  
     
 
 
