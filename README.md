@@ -161,6 +161,15 @@
         
 ### __온글잎 선시우체(OngleleafSeonSiwoo) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleleafSeonSiwoo/main/OngleleafSeonSiwoo.css);  
+        
+### __온글잎 설영체(OngleleafSeolyoung) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSeolyoung/main/OngleleafSeolyoung.css);  
+        
+### __온글잎 성은쌤체(OngleleafSeongEunSaem) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSeongEunSaem/main/OngleleafSeongEunSaem.css);  
+        
+### __온글잎 성희(OngleleafSunghui) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafSunghui/main/OngleleafSunghui.css);  
     
 
 
