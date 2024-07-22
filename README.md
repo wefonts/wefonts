@@ -739,7 +739,7 @@
 ### __라디오 고딕체(ladio) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/ladio/main/ladio.css);
 
-### __허니도로롱체(hyunyDororong) : normal__
+### __혀니도로롱체(hyunyDororong) : normal__
 @import url(https://raw.githubusercontent.com/wefonts/hyunyDororong/main/hyunyDororong.css);
 
 ### __안성탕면체(ansung) : normal__
