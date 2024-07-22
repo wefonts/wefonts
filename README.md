@@ -224,6 +224,72 @@
 
 ### __온글잎 윤지는유니(OngleleafYunjinisuni) : normal__   
 @import url(https://raw.githubusercontent.com/wefonts/OngleleafYunjinisuni.css/main/OngleleafYunjinisuni.css);  
+
+### __온글잎 의진체(OngleleafUijin) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafUijin/main/OngleleafUijin.css);  
+
+### __온글잎 이빈나(OngleleafIBinna) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafIBinna/main/OngleleafIBinna.css);  
+
+### __온글잎 이선호(OngleleafLeeSunho) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafLeeSunho/main/OngleleafLeeSunho.css);  
+
+### __온글잎 이순영손글씨(OngleleafLeeSunyeongHandwriting) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafLeeSunyeongHandwriting/main/OngleleafLeeSunyeongHandwriting.css);  
+
+### __온글잎 이지볼드(OngleleafEasyBold) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafEasyBold/main/OngleleafEasyBold.css);  
+
+### __온글잎 이현(OngleleafLeeHyun) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafLeeHyun/main/OngleleafLeeHyun.css);  
+
+### __온글잎 작가성재현(OngleleafJakkaSungJaehyun) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafJakkaSungJaehyun/main/OngleleafJakkaSungJaehyun.css);  
+
+### __온글잎 장칼체(OngleleafJangkal) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafJangkal/main/OngleleafJangkal.css);  
+
+### __온글잎 재건사(OngleleafJaegunSa) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafJaegunSa/main/OngleleafJaegunSa.css);  
+
+### __온글잎 정여사(OngleleafJeongYeosa) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafJeongYeosa/main/OngleleafJeongYeosa.css);  
+
+### __온글잎 정지우(OngleleafJeongJiwoo) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafJeongJiwoo/main/OngleleafJeongJiwoo.css);  
+
+### __온글잎 제이앤비(OngleleafJandB) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleleafJandB/main/OngleleafJandB.css);  
+
+### __온글잎 주리글씨(OngleapJurigeulssi) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapJurigeulssi/main/OngleapJurigeulssi.css);  
+
+### __온글잎 주혜(OngleapJuhye) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapJuhye/main/OngleapJuhye.css);  
+
+### __온글잎 진팔이 볼드(OngleapJinpaliBold) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapJinpaliBold/main/OngleapJinpaliBold.css);  
+
+### __온글잎 쿤도체(OngleapKundo) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapKundo/main/OngleapKundo.css);  
+
+### __온글잎 한지우체(OngleapHanjiooche) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapHanjiooche/main/OngleapHanjiooche.css);  
+
+### __온글잎 현자체(OngleapHyeonja) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapHyeonja/main/OngleapHyeonja.css);  
+
+### __온글잎 환승체(OngleapHwansung) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapHwansung/main/OngleapHwansung.css);  
+
+### __온글잎 효린체(OngleapHyorin) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/OngleapHyorin/main/OngleapHyorin.css);  
+
+### __Roboto(Roboto) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/Roboto/main/Roboto.css);  
+
+### __Zain(Zain) : normal__   
+@import url(https://raw.githubusercontent.com/wefonts/Zain/main/Zain.css);  
     
 
 
